@@ -14,7 +14,7 @@ sonnet 1.23
 
 ### Pretrained Model
 Our pretrained checkpoint files for different settings, and other related data for running the demo code of the inference stage can be downloaded via the following link:
-[[Inference Data]](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/ylwen_connect_hku_hk/Ek9cLvaMMJtFvnwluSufX4QBYx7ZiacZ3cF0b0XNcdhYJA?e=MzNOE4)
+[[Inference Data]](https://huggingface.co/fylwen/DISP6D-Assets/tree/main)
 
 which includes:
 1) ```./ckpts/```: The pretrained ckpt files for Ours-per(Setting I) and Ours-all(Setting III) that are trained on the synthetic CAMERA dataset, and for Setting II that is trained on synthetic images of the first 18 T-LESS objects.
